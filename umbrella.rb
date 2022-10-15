@@ -2,9 +2,25 @@ p "Where are you located?"
 
 # user_location = gets.chomp
 
-user_location = "Taj Mahal"
+user_location = gets.chomp
 
 p user_location
+require "open-uri"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 require "open-uri"
 
